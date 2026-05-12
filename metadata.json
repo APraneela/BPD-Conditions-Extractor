@@ -1,0 +1,6 @@
+{
+  "name": "BPD Condition Extractor",
+  "description": "Extract unique conditions from BPD Excel files across Screen, Assessment, Review, and Interview tabs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
